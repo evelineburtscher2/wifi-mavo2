@@ -3,12 +3,15 @@
 		{
 			"title": "Titel erste News",
 			"Date": "1.4.2019",
-			"Description": "Das ist der Text"
+			"Description": "Das ist der Text",
+			"image": "https://cdn.rawgit.com/evelineburtscher2/wifi-mavo2/57806671dc4c5394e613e57eaccee3cb3fa6b448/images/1.jpg"
 		},
 		{
 			"title": "Titel zweite news",
 			"Date": "2.4.2019",
-			"Description": "Dasfasfsaf\nsafsaf\nsaf\nsaf"
-		}
+			"Description": "Dasfasfsaf\nsafsaf\nsaf\nsaf",
+			"image": "https://cdn.rawgit.com/evelineburtscher2/wifi-mavo2/21c1ed8ae86536a7d69a7337e9f32b4cdda361c2/images/2.jpg"
+		},
+		{}
 	]
 }
