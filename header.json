@@ -4,14 +4,13 @@
 			"title": "Titel zweite news",
 			"Date": "2.4.2019",
 			"Description": "Dasfasfsaf\nsafsaf\nsaf\nsaf",
-			"image": "https://cdn.rawgit.com/evelineburtscher2/wifi-mavo2/a1718f53072480042b479d0f056f13ae581b101f/images/2016-08-12.png"
+			"image": "https://picsum.photos/200/300"
 		},
 		{
 			"title": "Titel erste News",
 			"Date": "1.4.2019",
 			"Description": "Das ist der Text",
 			"image": "https://cdn.rawgit.com/evelineburtscher2/wifi-mavo2/26c971c7f2770acb767f8a310c9d5db35ac0102b/images/1.jpg"
-		},
-		{}
+		}
 	]
 }
