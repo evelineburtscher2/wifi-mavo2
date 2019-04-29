@@ -7,8 +7,13 @@
 			"image": "https://picsum.photos/200/300"
 		},
 		{
-			"title": "Titel erste News",
-			"Date": "1.4.2019",
+			"image": "https://cdn.rawgit.com/evelineburtscher2/wifi-mavo2/c641415da07a4a1a88057181fb1323055ec3d541/images/1.jpg",
+			"title": "Neues Element",
+			"Date": "Date"
+		},
+		{
+			"title": "Titel erste Newssfsafsafsdfa",
+			"Date": "1safsaf",
 			"Description": "Das ist der Text",
 			"image": "https://cdn.rawgit.com/evelineburtscher2/wifi-mavo2/3d344c7a948a847325a025f41fa825d383f9ba50/images/1.jpg"
 		}
